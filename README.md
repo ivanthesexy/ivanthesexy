@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there, I'm $€x¥
+Welcome to my profile, owned by the most stupid thing ever existed in the history of this universe or might even in the multiverse.
 
-<!--
-**ivanthesexy/ivanthesexy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanthesexy&show_icons=true&theme=tokyonight)](https://github.com/ivanthesexy)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on:
+  -  beign more sexy
+- 📫 Contact: [Main account](https://github.com/Haltroy) 
+- ⚡ Fun fact: im sexy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Favorite Repositories
+| [![Ivan's Sexy Calculator](https://github-readme-stats.vercel.app/api/pin/?username=haltroy&repo=HWCalculator&theme=tokyonight)](https://github.com/haltroy/HWCalculator) | [![Yorot](https://github-readme-stats.vercel.app/api/pin/?username=haltroy&repo=Yorot&theme=tokyonight)](https://github.com/haltroy/Yorot) |
+|-|-|
+|  [![HTAlt](https://github-readme-stats.vercel.app/api/pin/?username=haltroy&repo=HTAlt&theme=tokyonight)](https://github.com/haltroy/HTAlt)
