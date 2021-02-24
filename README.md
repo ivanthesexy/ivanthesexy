@@ -9,6 +9,6 @@ Welcome to my profile, owned by the most stupid thing ever existed in the histor
 - ⚡ Fun fact: im sexy
 
 ## My Favorite Repositories
-| [![Ivan's Sexy Calculator](https://github-readme-stats.vercel.app/api/pin/?username=haltroy&repo=HWCalculator&theme=tokyonight)](https://github.com/haltroy/HWCalculator) | [![Yorot](https://github-readme-stats.vercel.app/api/pin/?username=haltroy&repo=Yorot&theme=tokyonight)](https://github.com/haltroy/Yorot) |
+| [![Ivan's Sexy Calculator](https://github-readme-stats.vercel.app/api/pin/?username=haltroy&repo=HWCalculator&theme=tokyonight)](https://github.com/ivanthesexy/HWCalculator) | [![Yorot](https://github-readme-stats.vercel.app/api/pin/?username=haltroy&repo=Yorot&theme=tokyonight)](https://github.com/haltroy/Yorot) |
 |-|-|
-|  [![HTAlt](https://github-readme-stats.vercel.app/api/pin/?username=haltroy&repo=HTAlt&theme=tokyonight)](https://github.com/haltroy/HTAlt)
+|  [![HTAlt](https://github-readme-stats.vercel.app/api/pin/?username=haltroy&repo=HTAlt&theme=tokyonight)](https://github.com/haltroy/HTAlt) | [![Backupster](https://github-readme-stats.vercel.app/api/pin/?username=haltroy&repo=Backupster&theme=tokyonight)](https://github.com/haltroy/Backupster) |
